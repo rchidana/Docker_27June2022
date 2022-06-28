@@ -1,0 +1,122 @@
+Send answers to : anandr72@gmail.com
+Please provide your Accenture Email id along with answers (one or many):
+
+Docker - Accenture Training – Post Test:
+
+Note: Participants need to select at least one answer from multiple choice questions but few questions can have multiple answers, in which case choose as many right answers as possible
+1.	What is the basic problem that is addressed by Containers?
+a.	They are light weight
+b.	Resolves application portability issues
+c.	Software Components and their dependency issues
+
+2.	From the following list, pick various popular containers (one or more)
+a.	LXC
+b.	RKT
+c.	Podman
+d.	Containerd
+
+3.	Which command(s) can be used to interact with running containers?
+a.	attach
+b.	exec
+c.	run
+d.	ps
+
+4.	What does docker run command accomplish?
+a.	It runs an existing container
+b.	It runs a stopped container
+c.	It spins up a new container
+d.	It restarts a stopped container
+
+5.	What is the difference between docker “run” and “start” command? Pick one or more
+a.	There is no difference
+b.	Both commands can be used to spin “new” containers
+c.	“run” command will run a stopped container while “start” will spin a new container
+d.	“run” command will spin a new container while “start” will run a stopped container
+
+6.	Which option(s) can be used to spin up a container in interactive way?
+a.	-i
+b.	-it
+c.	-itd
+
+7.	Pick the docker option which will expose a container originally running on port 8080 to port 80 of the Host machine
+a.	 -p 8080:80
+b.	-p 80:8080 
+c.	–p 80:80
+d.	–p 8080:8080
+
+8.	Which among the following are the valid container state? Pick one or more
+a.	Running
+b.	Stopped
+c.	Exited
+d.	Paused
+
+9.	What is the default name of the file which contains instructions to build a docker image
+a.	dockerfile
+b.	DockerFile
+c.	Dockerfile
+d.	.Dockerfile
+
+10.	Which is the default location where popular docker images are stored for public consumption?
+a.	GitHub
+b.	Docker Registry
+c.	DockerHub
+d.	S3 Buckets
+
+11.	What is Docker Swarm? Pick one or more
+a.	A list of docker containers in any organization
+b.	A bunch of docker containers running on a single powerful host
+c.	A cluster of docker hosts or nodes which are connected 
+d.	None of the above
+
+12.	Pick all valid Dockerfile syntax from the following (pick one or more)
+a.	FROM
+b.	RUN
+c.	CMD
+d.	LS
+
+13.	Which command is used to create a new docker image?
+a.	docker create
+b.	docker image create
+c.	docker build
+d.	docker bundle 
+
+14.	Which command can be used to get information about any docker component?
+a.	docker info
+b.	docker status
+c.	docker inspect
+d.	docker log
+
+15.	Which of the following command creates a docker volume? Pick one or more
+a.	docker create volume volume_name
+b.	docker volume create volume_name
+c.	docker run –v volume_name alpine /bin/sh
+d.	docker start –v volume_name:/volume_name
+
+16.	Pick the command which can be used to upload images to dockerhub
+a.	docker copy
+b.	docker upload
+c.	docker scp
+d.	docker push
+
+17.	Which command can be used to check the logs of running containers?
+a.	docker inspect
+b.	docker check
+c.	docker logs
+d.	docker show
+
+18.	In which language is docker written?
+a.	C
+b.	C++
+c.	Java
+d.	Go Lang
+
+19.	What is docker compose?
+a.	It’s a language to compose docker image
+b.	It’s a tool for composing docker
+c.	It’s a tool for defining & running multi-container docker applications
+
+20.	Docker compose typically understands which type of mark up language?
+a.	JSON
+b.	Text files
+c.	YAML
+d.	None of the above
